@@ -1,0 +1,31 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Testing artifacts
+test_results/
+*.log
+
+# Personal notes
+private_notes/
+scratch/
+TODO.md
+
+# Backup files
+*.bak
+*.backup
