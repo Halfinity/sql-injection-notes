@@ -519,20 +519,6 @@ admin'--
 
 ---
 
-## 📝 My Practice Notes
-
-### Machines Completed:
-- [ ] PortSwigger Lab 1 - Error-based SQLi
-- [ ] PortSwigger Lab 2 - Union-based SQLi
-- [ ] PortSwigger Lab 3 - Blind SQLi
-- [ ] HTB Machine - [Name]
-- [ ] TryHackMe - SQL Injection Room
-
-### Key Learnings:
-- [Add your personal notes and insights here]
-
----
-
 ## 🤝 Contributing
 
 Found a new technique or payload? Feel free to contribute!
