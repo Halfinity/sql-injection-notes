@@ -511,14 +511,6 @@ Found a new technique or payload? Feel free to contribute!
 
 ---
 
-## 📫 Contact
-
-For questions or discussions about SQL injection:
-- **Email:** ofirhalfin13@gmail.com
-- **LinkedIn:** [Your LinkedIn]
-
----
-
 <div align="center">
 
 **⚠️ Remember: Always get proper authorization before testing! ⚠️**
