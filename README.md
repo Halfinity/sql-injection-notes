@@ -24,20 +24,6 @@ Always obtain proper written authorization before testing.
 
 ---
 
-## 📋 Table of Contents
-
-1. [What is SQL Injection?](#what-is-sql-injection)
-2. [Types of SQL Injection](#types-of-sql-injection)
-3. [Exploitation Techniques](#exploitation-techniques)
-4. [Advanced Techniques](#advanced-techniques)
-5. [Database-Specific Payloads](#database-specific-payloads)
-6. [Detection Methods](#detection-methods)
-7. [Mitigation Strategies](#mitigation-strategies)
-8. [Practice Labs](#practice-labs)
-9. [Tools & Resources](#tools--resources)
-
----
-
 ## 🎯 What is SQL Injection?
 
 SQL Injection (SQLi) is a web security vulnerability that allows attackers to interfere with database queries. Attackers can:
